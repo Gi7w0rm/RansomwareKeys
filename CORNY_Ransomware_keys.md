@@ -16,7 +16,6 @@
 |ServerHP1 - SERVER|AumumdePz0|yBITuLFUpTT4AZzWyeMNi0V5T|
 |ServerHP1 - SERVER|6tnTKweHxA|i2LTsGHYIZPIjEslpHf1KJjSg|
 |ServerHP1 - SERVER|rSCzRSv2DL|7Qr8ORiusDTCMhxF36hdYKNmX|
-|azure - azure-PClbyr12lMyqMmd6knZDWT6wxcJEePcLwYTfz|
 |admin - DESKTOP-JGLLJLD|fpp3M6Tr9t|7D2xymerWi3gp6UTApi4lbVe8|
 |admin - DESKTOP-JGLLJLD|hqLOizk64d|4mFeDffm3D9UasptxU75xeIXB|
 |hoang - DESKTOP-54RITJH|IJtfmuai2S|ZrmPnjHs4X0kLexaEau06YQ1G|
